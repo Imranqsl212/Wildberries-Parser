@@ -8,14 +8,14 @@ Before running the script, make sure to install the required Python packages by 
 
 ```bash
 pip install requests pandas
+```
 
 ## Usage
 
 ```bash
 python wildberries_parser.py
+```
 
-
-## Script Overview
 
 ## Dependencies
 - `requests`: Used for making HTTP requests to the Wildberries website.
@@ -43,4 +43,3 @@ python wildberries_parser.py
 - Ensure that you have the necessary permissions to scrape data from the Wildberries website.
 - Consider the legality and terms of service regarding web scraping for the targeted website.
 - Feel free to customize and enhance the script based on your specific needs and requirements.
-
