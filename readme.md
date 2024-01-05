@@ -12,9 +12,15 @@ pip install requests pandas
 
 ## Usage
 
-```bash
-python wildberries_parser.py
-```
+1. Clone project
+   ```bash
+   git clone https://github.com/Imranqsl212/Wildberries-Parser.git
+   ```
+
+2. Run project:
+   ```bash
+   python wildberries_parser.py
+   ```
 
 
 ## Dependencies
